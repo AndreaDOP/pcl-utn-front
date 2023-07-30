@@ -1,4 +1,16 @@
 # React + Vite
+Descripcion
+App-Web de servicios de limpieza para el hogar.
+Las tecnologias utilizadas son:
+-React + Vite
+-Tailwindss
+-Tailblocks.cc
+-Backend con Node.js 
+-DB Mongo DB.
+
+Autores:
+Andrea Valdes
+Fernando Giordano
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
