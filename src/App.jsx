@@ -1,7 +1,7 @@
 /* eslint-disable no-unused-vars */
 import { Navigate, Routes, Route } from 'react-router-dom';
 import { useState } from 'react';
-import Header from './Componentes/Header';
+import Header from './Componentes/header';
 import ProductList from './Componentes/ProductList'; // Importa el componente ProductList
 
 
